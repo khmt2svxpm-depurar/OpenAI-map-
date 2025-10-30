@@ -2,7 +2,8 @@
 
 <p align="center">
   <strong>
-    <a href="https://opentelemetry.io/docs/collector/getting-started/">Getting Started</a>
+    <a href="https://open.mapa
+.io/docs/collector/getting-started/">Getting Started</a>
     &nbsp;&nbsp;&bull;&nbsp;&nbsp;
     <a href="CONTRIBUTING.md">Getting Involved</a>
     &nbsp;&nbsp;&bull;&nbsp;&nbsp;
